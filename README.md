@@ -1,8 +1,11 @@
 ## TindHancer.com - Free Power Ups and enhancements for Tinder
 
 #### Tindhancer allows you to: 
+
 🎯 Auto target & like people that liked you
+
 🗺 Change geolocation to swipe & match around the globe
+
 🤖 Tinder Auto Swiper
 
 [TindHancer.com](https://tindhancer.com/)
