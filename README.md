@@ -11,6 +11,6 @@
 [TindHancer.com](https://tindhancer.com/)
 
 
-[![image](image-promo.png)]https://www.youtube.com/watch?v=Lmvf4Tyg-jA)
+![image](image-promo.png)https://www.youtube.com/watch?v=Lmvf4Tyg-jA)
 
 In case you've ran into a problem with the app, submitting the issue here would be greately aprteciated ⛔️ 
