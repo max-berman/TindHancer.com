@@ -10,7 +10,7 @@
 
 [TindHancer.com](https://tindhancer.com/)
 
+<a href="https://www.youtube.com/watch?v=Lmvf4Tyg-jA" rel="promo video">![image](image-promo.png)</a>
 
-![image](image-promo.png)https://www.youtube.com/watch?v=Lmvf4Tyg-jA)
 
 In case you've ran into a problem with the app, submitting the issue here would be greately aprteciated ⛔️ 
