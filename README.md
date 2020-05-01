@@ -13,4 +13,4 @@
 <a href="https://www.youtube.com/watch?v=Lmvf4Tyg-jA" rel="promo video">![image](image-promo.png)</a>
 
 
-In case you've ran into a problem with the app, submitting the issue here would be greately aprteciated ⛔️ 
+In case you've ran into a problem  with the app, submitting the issue here would be greately aprteciated.🙏🏽
