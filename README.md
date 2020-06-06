@@ -2,6 +2,8 @@
 
 [TindHancer.com](https://tindhancer.com/)
 
+📺 [Demo](https://www.youtube.com/watch?v=Lmvf4Tyg-jA)
+
 #### Tindhancer allows you to: 
 
 😍 See who likes you on Tinder for free
@@ -11,6 +13,8 @@
 🤖 Auto swipe profiles
 
 🕵 Browse through profiles by scrolling down infinitely as opposed to swiping
+
+
 
 ---
 
