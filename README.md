@@ -18,7 +18,7 @@
 
 ---
 
-It was a fun experiment to hack and reverse-engineering into Tinder's API.
+It's a fun experiment to hack and reverse-engineering into Tinder's API.
 
 There are lots of folks out there who can not afford to pay Tinder for these features who could use something like that in a mean time for free until Tinder takes it down :)
 
